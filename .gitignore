@@ -24,6 +24,8 @@ sm/lib/options/liboptions.a
 sm/lib/options/test_options
 sm/libcsm-static.a
 sm/libcsm.dylib
+sm/libcsm.so
 sm/lib/egsl/libegsl.a
 sm/lib/json-c/config.h
 sm/lib/json-c/libjson-c.a
+config.h
